@@ -419,7 +419,7 @@ export default defineConfig({
         ],
       },
 
-      { text: "DOMHelpers Core", link: "https://giovanni1707.github.io/DOMHelpers-Core/" },
+      { text: "DOMHelpers Core", link: "https://domhelpers-js.github.io/core/" },
 
     ],
 
