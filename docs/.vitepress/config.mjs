@@ -363,7 +363,7 @@ const storageSidebar = [
 ];
 
 export default defineConfig({
-  title: "DOM Helpers ",
+  title: "DOMHelpers ",
   description: "A JavaScript-first DOM utility library",
   base: "/reactive/",
   ignoreDeadLinks: true,
